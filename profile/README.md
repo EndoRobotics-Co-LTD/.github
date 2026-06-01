@@ -12,6 +12,6 @@
 - **IT-Strategy**: [@eslee850](https://github.com/esl-0604), [@DJPark1224](https://github.com/DJPark1224)
 - **AI**: [@HyunseokAhn](https://github.com/hyunseokAhn)
 # MANAGER
-- **Embedded**: [@jeonghankimKR](https://github.com/jeonghankimKR), [@seokhyeon-endo](https://github.com/seokhyeon-endo))
+- **Embedded**: [@jeonghankimKR](https://github.com/jeonghankimKR), [@seokhyeon-endo](https://github.com/seokhyeon-endo)
 - **IT-Strategy**: [@eslee850](https://github.com/esl-0604)
 - **AI**: [@HyunseokAhn](https://github.com/hyunseokAhn)
